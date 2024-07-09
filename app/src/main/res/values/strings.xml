@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Animated Onboarding</string>
+    <string name="mota">Vẻ đẹp của thành phố ngàn hoa luôn là điều khiến nhiều người mê đắm, trong đó Khu du lịch Lavender Đà Lạt mang nét lãng mạn và ấn tượng được nhiều du khách biết đến. </string>
+    <string name="phuquoc">Phu Quoc is a triangle-shaped island in the south of Vietnam,
+        home to striking white-sand beaches and delightfully fresh seafood...</string>
+    <string name="review">the customer service is great, friendly, and professionally.
+I have my parents, they were in need a
+wheelchair, and the staff helped me..... so
+appreciate.....
+the room service was awesome, had accidentally spill water, and they help us change the bed sheet rightaway. I LOVE THE food deliver service, they reaally flexible and happily help us warm up the food without charge....
+A little care from all the staff make oir stay
+amaazing.
+we had wonderful stay andd will come back soon</string>
+    <string name="elite_intro">Elite of the Seas Cruise is the newest and
+        most modern cruise ship in Ha Long Bay. The yacht will be launched at the end of 2022.
+        The yacht includes 35 luxurious and classy rooms with an outdoor swimming pool and round-trip
+        shuttle bus from Hanoi to Ha Long. A special feature of the yacht is the gold-plated swimming pool
+        with an area of ​​up to 50 square meters, allowing guests to swim freely.</string>
+
+    <string name="lethe_intro">Le Theater cruise launched in 2019
+        includes 21 cabins with luxurious style. The details in the extremely
+        sophisticated design will bring satisfaction to every visitor. The common
+        areas of the cruise ship such as the main lobby, restaurant, and deck are all
+        quite spacious, very suitable for many tourist groups.</string>
+
+    <string name="mekong">No traveller in their right mind would skip Vietnam’s Mekong River Delta.
+        The colourful collection of towns sprinkled along the banks of the Mekong River are blessed with
+        dazzling blue skies, brimming with exotic fruits, and dotted with markets, temples and colonial-era mansions.
+        It’s a place to nap in a hammock or drift downstream in a sampan.</string>
+
+</resources>
